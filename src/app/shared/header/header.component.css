@@ -1,0 +1,8 @@
+.trasparent {
+    opacity: 0.95;
+}
+
+.logo {
+    width: 200px; /* Ajusta este valor según el tamaño deseado */
+    height: 60px; /* Esto garantiza que la imagen se ajuste proporcionalmente */
+}
